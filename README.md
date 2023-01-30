@@ -14,7 +14,7 @@ The complexity will quickly evolve towards security and storage, finishing with 
 
 - Challenge 1: **[Containers](01-containers.md)**
    - Get familiar with the application for this hack, and roll it out locally or with Azure Container Instances
-- Challenge 2: **[AKS Network Integration and Private Clusters](Student/02-aks_private.md)**
+- Challenge 2: **[AKS Network Integration and Private Clusters](02-aks_private.md)**
    - Deploy the application in an AKS cluster with strict network requirements
 - Challenge 3: **[AKS Monitoring](03-aks_monitoring.md)**
    - Monitor the application, either using Prometheus or Azure Monitor
