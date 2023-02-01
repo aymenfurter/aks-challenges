@@ -62,7 +62,7 @@ az acr create -n "$acr_name" -g "$rg" --sku Standard
 
 ```bash
 # Build images
-cd ./Student/Resources
+cd ./Resources
 cd api
 az acr build -r "$acr_name" -t hack/sqlapi:1.0 .
 cd ../web
