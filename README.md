@@ -1,5 +1,8 @@
 # What The Hack - AKS Enterprise-Grade
 
+## Solutions
+Reference Solutions are available at: https://github.com/microsoft/WhatTheHack/tree/master/039-AKSEnterpriseGrade/Coach
+
 ## Introduction
 
 The objective of this hack is to dive deeply into all aspects of integration between AKS and various Azure services. We have included challenges for many components that are required to operate a Kubernetes cluster on Azure (eg: networking, storage, etc) as well as some optional ones (eg: monitoring).
